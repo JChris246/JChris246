@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=jchris246&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchris246&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jchris246&theme=dark&langs_count=8)
 <!--
 **JChris246/JChris246** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
